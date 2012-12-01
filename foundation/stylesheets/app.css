@@ -12,9 +12,20 @@
 /* -----------------------------------------
    Shared Styles
 ----------------------------------------- */
+.debug-purple {
+    background-color: #8064a2;
+}
 
+.debug-orange {
+    background-color: #e05826;
+}
 
-
+.debug-blue {
+    background-color: #10a0c5;
+}
+#search {
+    width:100%;
+}
 /* -----------------------------------------
    Page Name 1
 ----------------------------------------- */
